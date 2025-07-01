@@ -13,7 +13,7 @@ Generate professional, friendly, or persuasive emails in seconds using cutting-e
 ## 🚀 Demo
 
 **👉 Try it live on Streamlit Cloud:**  
-[🔗 Click here to run the app](https://your-streamlit-cloud-link)
+[🔗 Click here to run the app](https://emailgenerator-8nqrezbaj6zbqx8nhpeatd.streamlit.app/)
 
 ---
 
@@ -23,13 +23,7 @@ Generate professional, friendly, or persuasive emails in seconds using cutting-e
 - 🧠 Uses **Groq-hosted LLaMA 3 (70B)** — super fast responses!
 - ⚡ Fully built with **Streamlit** — clean UI and interactive
 - 🔐 Easy integration using your **Groq API key**
-
----
-
-## 📸 Preview
-
-![App Screenshot](https://your-screenshot-url.png) <!-- optional if you want to show it -->
-
+  
 ---
 
 ## 🛠️ Tech Stack
